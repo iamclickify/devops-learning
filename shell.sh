@@ -19,5 +19,3 @@ echo "today's date is $(date)"
 
 echo "Enter username: "
 read username
-
-echo "my name is $username"
